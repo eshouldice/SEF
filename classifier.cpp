@@ -1,0 +1,3 @@
+class classifier {
+	int data
+};
